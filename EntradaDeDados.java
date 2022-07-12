@@ -14,7 +14,7 @@ public class EntradaDeDados {
         System.out.println("Digite a nota:");
     float nota = teclado.nextFloat();
     
-        System.out.printf("The note of %s is %.1f \n", nome, nota); 
+        System.out.printf("The note of %s is %.2f \n", nome, nota); 
         
     }
     
